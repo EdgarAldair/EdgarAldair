@@ -12,12 +12,11 @@
   - [A trip app](https://github.com/EdgarAldair/tripScreen)<b>
   - [A meditation app](https://github.com/EdgarAldair/meditationAppScreen)<b>
 
-
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="EdgarSaenz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="EdgarSaenz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="EdgarSaenz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="EdgarSaenz | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" />][twitter]
+[<img align="left" alt="EdgarSaenz | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="EdgarSaenz | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
 
 [twitter]: https://twitter.com/_EdgarAldair
 [instagram]: https://www.instagram.com/soy_edgarsaenz/
