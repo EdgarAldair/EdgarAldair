@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edgar! <br/><a href="https://github.com/EdgarAldair">Programmer</a>, <a href="https://www.linkedin.com/in/edgar-saenz/">IT Engineer</a></h1>
+<h1>Hi, I'm Edgar! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <br/><a href="https://github.com/EdgarAldair">Programmer</a>, <a href="https://www.linkedin.com/in/edgar-saenz/">IT Engineer</a></h1>
 
 
 - 🔭 I’m currently working on mobile platform app, for adopt streets animals, this a non-profit project, we would believe in seconds chances, see more at https://petlymexico.org/
@@ -14,6 +14,11 @@
   
 - <b>Other Projects</b>
   - [NodeJS Server](https://github.com/EdgarAldair/ServidorNodeJS)<b>
+  
+  
+ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoff.ee/saenz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -24,16 +29,3 @@
 [twitter]: https://twitter.com/_EdgarAldair
 [instagram]: https://www.instagram.com/soy_edgarsaenz/
 [linkedin]: https://www.linkedin.com/in/edgar-saenz/
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
