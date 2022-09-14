@@ -11,6 +11,9 @@
 - <b>Front end mobile designs on flutter</b>
   - [A trip app](https://github.com/EdgarAldair/tripScreen)<b>
   - [A meditation app](https://github.com/EdgarAldair/meditationAppScreen)<b>
+  
+- <b>Other Projects</b>
+  - [NodeJS Server](https://github.com/EdgarAldair/ServidorNodeJS)<b>
 
 <h2> 🤳 Connect with me:</h2>
 
