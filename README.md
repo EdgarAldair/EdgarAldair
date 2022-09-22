@@ -7,7 +7,7 @@
 - <b>Full Stack Mobile App Flutter</b>
   - [Delivery App](https://github.com/EdgarAldair/deliveryfluttter-app)
   - [Petly](https://github.com/EdgarAldair/deliveryfluttter-app)
-  - [Uber clone](https://github.com/EdgarAldair/uber-clone-app)
+#  - [Uber clone](https://github.com/EdgarAldair/uber-clone-app)
 - <b>Front end mobile designs on flutter</b>
   - [A trip app](https://github.com/EdgarAldair/tripScreen)<b>
   - [A meditation app](https://github.com/EdgarAldair/meditationAppScreen)<b>
@@ -16,7 +16,7 @@
   - [NodeJS Server](https://github.com/EdgarAldair/ServidorNodeJS)<b>
   
   
- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+ if you like what i do, maybe consider buying me a coffee/tea 💪🏼
 
 <a href="https://www.buymeacoff.ee/saenz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
