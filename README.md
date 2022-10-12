@@ -4,10 +4,12 @@
 - 🔭 I’m currently working on mobile platform app, for adopt streets animals, this a non-profit project, we would believe in seconds chances, see more at https://petlymexico.org/
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Visual Studio Code Themes</b>
+  - [Vintage Vibrance](https://github.com/EdgarAldair/vscode-vintage-vibrance)
 - <b>Full Stack Mobile App Flutter</b>
   - [Delivery App](https://github.com/EdgarAldair/deliveryfluttter-app)
   - [Petly](https://github.com/EdgarAldair/deliveryfluttter-app)
-#  - [Uber clone](https://github.com/EdgarAldair/uber-clone-app)
+  - [Uber clone](https://github.com/EdgarAldair/uber-clone-app)
 - <b>Front end mobile designs on flutter</b>
   - [A trip app](https://github.com/EdgarAldair/tripScreen)<b>
   - [A meditation app](https://github.com/EdgarAldair/meditationAppScreen)<b>
